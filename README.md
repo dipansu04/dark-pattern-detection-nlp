@@ -30,7 +30,3 @@ The tuned Linear SVM model achieved an accuracy of **94%** on the test set.
 | **Recall** | 94% |
 | **F1-Score** | 94% |
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/dipansu04/dark-pattern-detection-nlp.git](https://github.com/dipansu04/dark-pattern-detection-nlp.git)
